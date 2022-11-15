@@ -2,10 +2,10 @@ serve-static:
   html: |
     <html>
       <head>
-        <title>Static HTML</title>
+        <title>Prueba en vivo</title>
       </head>
       <body>
-        <h1>Static HTML</h1>
+        <h1>Prueba en vivo</h1>
         <p>Static HTML served by Helm</p>
       </body>
     </html>
